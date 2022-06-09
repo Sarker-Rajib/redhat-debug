@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redhat-debug
+- 👋 Hi, I’m @Rajib Sarker
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
